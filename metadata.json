@@ -1,0 +1,6 @@
+{
+  "name": "AI DSLR Camera",
+  "description": "Professional AI camera app with real-time controls, DSLR photo/video enhancements, bokeh simulation, before/after comparison, and media gallery.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
